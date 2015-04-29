@@ -1,0 +1,46 @@
+1.Search By Location,Restaurant and Dish
+2.Restaurant List
+3.Restaurant Detail
+	a.Restaurant Detail Display
+	b.Menu Display
+	c.Review Display
+	d.Favourite Food
+	e.Slot and Availability
+	f.Dish Review
+	g.Map Display
+4.Booking
+	a.Update Availablity of Restaurant
+	b.Send Email to User
+	c.Send Email to Restaurant
+	d.Send SMS to User
+5.Cancellation/Modification of Booking
+6.Sign Up-Registration
+7.SignIn with Facebook,Google
+8.User Management/Security
+9.Restaurant Management
+	a.Ability to Upload Photos
+10.Master Data preparation-Location tables
+11.Static Pages
+12.Social Media Linking
+13.My Profile
+	a.Password change,Any Information change
+14.Email Preferences-Promotional Emails
+
+15.Naming
+16.Logo Design
+17.UI Layout Design-HTML
+18.Facebook,Google+,LinkedIn,Twitter profile creation
+19.UI Integration
+20.Hosting
+21.Basic Project Structure creation
+22.Maps
+
+
+Second Phase
+===============================
+15.Add to Calendar
+16.Invite Friends
+17.Dining Preferences
+
+18.Suggest a Restaurant
+19.Restaurant Registration Request
